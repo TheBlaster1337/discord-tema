@@ -1,2 +1,2 @@
 # discord-tema
-yes and yes or no or yes taip
+Yet another discord theme
