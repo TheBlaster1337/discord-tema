@@ -1,5 +1,5 @@
-@import url('https://arudarin.github.io/themes/mini-themes/settingsIcons.css');
-@import url('https://arudarin.github.io/themes/mini-themes/statusBorderRight.css');
+@import url('https://slavmen.github.io/discord-tema/triperis/themes/mini-themes/settingsIcons.css');
+@import url('https://slavmen.github.io/discord-tema/triperis/themes/mini-themes/statusBorderRight.css');
 
 .attachButtonInner-1iyZ9F svg path,.guildInner-3DSoA4 a svg g,.messageGroupBlocked-3wrQQX,.welcomeMessage-3_Mcht {
 	display: none
@@ -16,7 +16,7 @@
 }
 
 /*#app-mount::before {
-	content: "I'm sorry but this theme will stop working by 03/05. It has been discontinued. Please use another theme";
+	content: "";
 	position: absolute;
 	top: 5px;
 	left: calc(50% - 250px);
