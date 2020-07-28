@@ -74,7 +74,7 @@
 }
 
 .headerName-fajvi9,.username-1cB_5E,.username-_4ZSMR {
-	text-shadow: 0 0 5px #000
+	text-shadow: 0 0 20px #000
 }
 
 #friends .friends-table .friends-row .status-oxiHuE,.item-1GzJrl .status-oxiHuE {
@@ -109,7 +109,7 @@
 }
 
 .usernameOffline-3VSVLk {
-	color: #747f8d
+	color: #2b2b2b
 }
 
 .activity-1IYsbk,.membersGroup-v9BXpm {
@@ -669,7 +669,7 @@
 }
 
 .userPopout-3XzG_A {
-	box-shadow: 0 0 5px rgba(0,0,0,1);
+	box-shadow: 0 0 20px rgba(0,0,0,1);
 	border-radius: 0;
 	border: 1px solid rgba(0,0,0,.75)
 }
