@@ -714,7 +714,7 @@
 
 .headerPlaying-j0WQBV .activity-11LB_k,.topSectionPlaying-1J5E4n .activity-1ythUs {
 	box-shadow: 0 5px 5px rgba(0,0,0,.3),0 -5px 5px rgba(0,0,0,.3);
-	background-image: url(https://discordapp.com/assets/8eba753f8b6d02be1013c5e659b0fc2f.png);
+	background-image: url(https://i.imgur.com/YVfWnUu.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -755,7 +755,7 @@
 }
 
 .headerNormal-T_seeN {
-	background-image: url(https://discordapp.com/assets/8eba753f8b6d02be1013c5e659b0fc2f.png);
+	background-image: url(https://i.imgur.com/YVfWnUu.png);
 	background-position: center;
 	background-size: 200% 200%;
 	background-repeat: no-repeat;
@@ -991,7 +991,7 @@
 }
 
 #bd-settings-sidebar::after {
-	content: "Theme Version: 1.0.0";
+	content: "Temos Versija: 1.0.2";
 	font-size: 12px;
 	font-weight: 600;
 	color: #72767d;
