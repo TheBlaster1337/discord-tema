@@ -16,7 +16,7 @@
 }
 
 /*#app-mount::before {
-	content: "Nauja tema! Kas naujo? Pakeista statuso užsklanda";
+	content: "Pakeistas discord programos pavadinimas";
 	position: absolute;
 	top: 5px;
 	left: calc(50% - 250px);
@@ -56,6 +56,32 @@
 	top: -.5px;
 	box-shadow: -1px 0 5px 1.5px rgba(0,0,0,.5)
 }
+
+.wordmark-2iDDfm svg {
+  display: none;
+}
+
+.titleBar-AC4pGV:not(.typeMacOS-3EmCyP)::after {
+  content: "ᴛʀɪᴘᴇʀɪꜱ ᴏ ɴᴇ ᴅɪꜱᴄᴏʀᴅᴀꜱ";
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  color: rgb(170, 170, 170);
+  display: block;
+  height: 16px;
+  width: fit-content;
+  pointer-events: none;
+  font-size: 14px;
+}
+
+.winButtonMinMax-PBQ2gm:hover {
+  background-color: var(--blurple);
+}
+
+.titleBar-AC4pGV {
+  background-color: transparent;
+}
+
 
 .status-oxiHuE,.winButton-iRh8-Z {
 	top: 0
