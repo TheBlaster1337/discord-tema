@@ -11,7 +11,7 @@
 	--primary2: #d90000;
 	--dark: #141418;
 	--main-bg-color: #d90000;
-	--medium: #18191d;
+	--medium: #141418;
 	--light: #2e3038;
 	--HomeButtonImg: url(https://i.imgur.com/w0KiyLe.png)
 }
@@ -230,7 +230,7 @@
 
 .chat-3bRxxu form {
 	margin: 0;
-	background-color: var(--medium)!important;
+	background-color: var(--dark)!important;
 	box-sizing: border-box
 }
 
