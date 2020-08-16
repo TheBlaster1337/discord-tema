@@ -1,4 +1,4 @@
-//META{"name":"Triperis","description":"Do not reupload or say that it is your theme","author":"TheBlaster1337#5487","version":"1.4","source":"https://github.com/Slavmen/discord-tema","website":"http://discord.io/ltmp"}*//{}
+//META{"name":"Triperis","description":"Do not reupload or say that it is your theme","author":"TheBlaster1337#5487","version":"1.0.4","source":"https://github.com/Slavmen/discord-tema","website":"http://discord.io/ltmp"}*//{}
 /*
 
 
@@ -23,12 +23,13 @@ You are not allowed to redistribute this theme or any part of it as your own. Th
 /*###############################################################################################*/
 @import url("https://slavmen.github.io/discord-tema/triperis/core.css");
 /*###############################################################################################*/
-:root{
-	--primary: #cc0000;
-	--primaryT: rgba(204, 0, 0,.35);
-	--primary2: #cc0000;
+:root {
+	--primary: #d90000;
+	--primaryT: rgba(217, 0, 0,.25);
+	--primary2: #d90000;
 	--dark: #141418;
-	--medium: #18191d;
+	--main-bg-color: #d90000;
+	--medium: #141418;
 	--light: #2e3038;
-	--HomeButtonImg: url(https://i.imgur.com/w0KiyLe.png);
+	--HomeButtonImg: url(https://i.imgur.com/w0KiyLe.png)
 }
