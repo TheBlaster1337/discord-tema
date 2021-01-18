@@ -16,8 +16,8 @@
 	--HomeButtonImg: url(https://i.imgur.com/w0KiyLe.png)
 }
 
-/*#app-mount::before {
-	content: "Pakeistas discord programos pavadinimas";
+#app-mount::before {
+	content: "Pakeistas pavadinimas į disčiordas";
 	position: absolute;
 	top: 5px;
 	left: calc(50% - 250px);
@@ -29,7 +29,7 @@
 	padding: 10px 15px;
 	border-radius: 8px;
 	z-index: 500000;
-}*/
+}
 
 .container-PNkimc,.members-1998pB {
 	background-color: var(--medium)!important
