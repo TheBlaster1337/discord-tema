@@ -2126,3 +2126,16 @@ svg[name=Folder] {
 .bg-h5JY_x {
 	background: transparent!important
 }
+
+    .theme-dark {
+
+    --background-color: #00000000 !important;
+
+    --background-secondary: #00000082 !important;
+
+    --background-tertiary: rgba(0, 0, 0, 0) !important;
+
+    --deprecated-panel-background: #0000001c !important;
+
+    }
+
