@@ -20,13 +20,13 @@ button {
 	--font-display: var(--font-primary) !important;
 	/* Dark Matter Variables */
 	--avatar-size: 32px;
-	--background-image: url('https://i.imgur.com/7SbtKvw.png');
-	--home-image: url('https://i.imgur.com/233d55Y.gif');
+	--background-image: url('https://i.imgur.com/NakfHv4.jpg');
+	--home-image: url('https://i.imgur.com/w0KiyLe.png');
 	--background-solid: #161921;
 	--background-solid-dark: #101218;
 	--background-solid-darker: #0c0e12;
-	--accent: 37, 172, 232;
-	--accent-alt: 29, 101, 134;
+	--accent: 200, 0, 0;
+	--accent-alt: 100, 0, 0;
 	--black: 0, 0, 0;
 	--white: 255, 255, 255;
 	/* BlurpleRecolor */
@@ -100,38 +100,6 @@ button {
 }
 
 
-/* Titlebar */
-
-div[class*="typeWindows-"] {
-	--background-modifier-hover: rgba(var(--white), 0.05);
-	--background-modifier-active: rgba(var(--white), 0.075);
-	height: 26px;
-}
-
-div[class*="typeWindows-"]>div:first-child {
-	display: none;
-}
-
-div[class*="typeWindows-"]>div[role="button"] {
-	height: 30px;
-	width: 36px;
-}
-
-div[class*="typeWindows-"]::after {
-	content: 'Discord';
-	font-weight: 5000;
-	line-height: 31px;
-	color: var(--text-muted);
-	font-size: 14px;
-	position: absolute;
-	padding: 0 12px;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 30px;
-	background: rgba(var(--black), 0.85);
-	z-index: -1;
-}
 
 
 /* Guilds */
@@ -312,42 +280,6 @@ section[class*="themed-"] {
 	--background-tertiary: var(--background-solid-darker);
 }
 
-
-/* Header */
-
-section[class*="themed-"] {
-	height: 54px;
-	box-shadow: var(--elevation-low);
-	--background-secondary: rgba(var(--white), 0.1);
-}
-
-section>div>a[href="https:https://support.discord.com"] {
-	display: none;
-}
-
-section[class*="themed-"]::before,
-section[class*="themed-"] ::after {
-	content: none;
-}
-
-section div[class^="toolbar"]>div[role] {
-	margin: 0 4px;
-	transition: 150ms ease;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	border-radius: 3px;
-	width: 28px;
-	height: 28px;
-}
-
-section div[class^="toolbar"]>div[role] svg {
-	width: 22px;
-}
-
-section div[class^="toolbar"]>div[role][class*="selected-"] {
-	background-color: rgba(var(--white), 0.1);
-}
 
 
 /* Panels */
